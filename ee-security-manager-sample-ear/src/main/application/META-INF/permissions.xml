@@ -4,8 +4,6 @@
     xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/permissions_7.xsd"
     version="7">
   <permission>
-    <!-- https://blogs.oracle.com/SecuritEE/entry/java_ee_7_permission_declarations -->
-    <!-- https://java.net/downloads/javaee-spec/ee-sec-mgr-00-ljm.pdf -->
     <class-name>java.util.PropertyPermission</class-name>
     <name>*</name>
     <actions>read</actions>
