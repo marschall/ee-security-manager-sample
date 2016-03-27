@@ -3,7 +3,7 @@ Java EE SecurityManager Sample
 
 A sample application on how to use a Java SecurityManager in a Java EE application.
 
-The important part is the `META-INF/permissions.xml` file.
+The important part is the [META-INF/permissions.xml](https://github.com/marschall/ee-security-manager-sample/blob/master/ee-security-manager-sample-ear/src/main/application/META-INF/permissions.xml) file.
 
 If you want to run this application with [WildFly](http://wildfly.org) you first need to make sure you have the security manager subsystem enabled in your configuration file (eg. `standalone.xml`).
 
