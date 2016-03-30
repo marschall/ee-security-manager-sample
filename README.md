@@ -27,3 +27,8 @@ Look for the following line in the log output
 The application is then available under http://127.0.0.1:8080/security-manager
 
 The application itself is portable and should run on any Java EE compliant application server.
+
+Links
+-----
+
+ * [All About Security Managers](http://word-bits.flurg.com/presentations/security-manager/index.html)
